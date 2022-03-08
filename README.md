@@ -3,10 +3,13 @@
 
 
 
+
+### <a href="https://github.com/AMX07">my Github </a>
+### <a href="https://www.linkedin.com/in/thisisanshmittal/">my linkedin</a>
 ### <a href="https://t.co/4zgx9bJUrn">my Substack </a>
-
-### my twitter https://twitter.com/itsanshmittal
-### my Github https://github.com/AMX07
+### <a href="https://twitter.com/itsanshmittal">my twitter </a>
 
 
-Link to another page.
+
+
+
